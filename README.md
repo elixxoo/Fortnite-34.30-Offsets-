@@ -1,6 +1,7 @@
 # Fortnite-34.30-Offsets-
 
 GWORLD = 0x16DA8288
+
 Levels = 0x1b0
 PersistentLevel = 0x38
 GameState = 0x198
